@@ -13,10 +13,10 @@
     <tr>
         <td> <img src="/images/rsp_photo_mono.jpg" width="400" >  </td>
         <td><ul>
-            <li> A scientist in the speech, biomedical, and text processing domains </li>
+            <li> A scientist in <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"> speech, biomedical, and text processing domains</a> </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
-            <li> [PhD in Speech Signal Processing](https://library.iiit.ac.in/Ph.D_ECE_Thesis.html) with [Prof B. Yegnanarayana](https://en.wikipedia.org/wiki/Bayya_Yegnanarayana) from [IIIT-Hyderabad](https://www.iiit.ac.in/) </li>
-            <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html">PhD in Speech Signal Processing</a></li>
+            <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html">PhD in Speech Signal Processing</a> with <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana">Prof. B. Yegnanarayana</a> </li> from <a href="https://www.iiit.ac.in/"> IIIT Hyderabad </a>
+            <li> Postdoctoral Researcher Idiap Research Institute</li>
         </ul></td>
     </tr>
 </table>
