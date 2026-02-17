@@ -15,6 +15,8 @@
         <td><ul>
             <li> A scientist in the speech, biomedical, and text processing domains </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
+            <li> [PhD in Speech Signal Processing](https://library.iiit.ac.in/Ph.D_ECE_Thesis.html) with [Prof B. Yegnanarayana](https://en.wikipedia.org/wiki/Bayya_Yegnanarayana) from [IIIT-Hyderabad](https://www.iiit.ac.in/) </li>
+            <li></li>
         </ul></td>
     </tr>
 </table>
