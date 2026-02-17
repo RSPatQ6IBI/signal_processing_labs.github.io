@@ -1,4 +1,4 @@
-<meta property="og:image" content="/images/git+.jpg"> 
+<meta property="og:image" content="/images/git+.JPG"> 
 
 <table>
     <tr>
