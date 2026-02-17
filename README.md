@@ -41,6 +41,6 @@ ccc
     </tr>
     <tr>
         <td>Image</td>
-        <td><img src="/images/GrandChavalard_SNOW.jpg" width="300" height="100" ></td>
+        <td><img src="/images/GrandChavalard_SNOW.jpg"/></td>
     </tr>
 </table>
