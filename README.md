@@ -1,5 +1,3 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 
 <table>
     <tr>
@@ -7,7 +5,7 @@
         <th>RaviShankar Prasad</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/rsp_photo_mono.jpg"/></td>
+        <td>![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)</td>
         <td><ul>
             <li> A scientist in <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"> speech, biomedical, and text processing domains</a> </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
