@@ -1,14 +1,9 @@
-# RaviShankar Prasad
-<img src="images/rsp_photo_mono.jpg" alt="isolated" width="200"/>
 
-## Biodata 
-- I work as a scientist in the speech, biomedical, and text processing domains. Currently, I build solutions for speech- and text-based analytics. I work for the development of conversational AI systems and automated analytics engines, agentic AI systems, speech processing, biomedical signal processing, and solutions which require state-of-the-art ASR, TTS, and LLMs. Previously, I worked at Whispp Inc., where I worked on pathological speech enhancement. I created an algorithm for improving the perceptual quality of whispered voices. I have also worked as a Postdoctoral Researcher Idiap Research Institute. While at Idiap, my work focused on joint modeling and processing of speech and physiological signals, towards personalized healthcare monitoring and early diagnosis of pathology. I am currently collaborating with Idiap, for SNF projects.
 
-+ Skills : Machine learning, Deep Learning, Neural Netowrks, Audio Processing 
 <table>
     <tr>
         <th> </th>
-        <th> </th>
+        <th>RaviShankar Prasad</th>
     </tr>
     <tr>
         <td><img src="/images/rsp_photo_mono.jpg" width="400" ></td>
@@ -16,7 +11,10 @@
             <li> A scientist in <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"> speech, biomedical, and text processing domains</a> </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
             <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html">PhD in Speech Signal Processing</a> with <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana">Prof. B. Yegnanarayana</a> </li> from <a href="https://www.iiit.ac.in/"> IIIT Hyderabad </a>
-            <li> Postdoctoral Researcher Idiap Research Institute</li>
+            <li> Postdoctoral Researcher <a href="https://www.idiap.ch/en/">Idiap Research Institute</a> (2018-2022)</li>
+            <li>Scientist at <a href="https://whispp.com/"></a> (2022-2023)</li>
+            <li>Chief Operation Officer at <a href="https://vocab-ai.com/"></a> (2023-2026)</li>
+            <li>Skills : Machine learning, Deep Learning, Neural Netowrks, Text Processing, Audio Processing, LLMs</li>
         </ul></td>
     </tr>
 </table>
