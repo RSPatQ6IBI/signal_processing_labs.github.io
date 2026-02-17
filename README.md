@@ -1,4 +1,10 @@
-
+body {
+  background-image: url("/images/GrandChavalard_SNOW.jpg");
+  background-size: cover; /* Optional: scales the image to cover the entire container */
+  background-repeat: no-repeat; /* Optional: prevents the image from repeating */
+  background-attachment: fixed; /* Optional: keeps the image fixed when scrolling */
+  background-position: center; /* Optional: centers the background image */
+}
 
 <table>
     <tr>
