@@ -1,4 +1,4 @@
-<meta property="og:image" content="/images/git+.JPG"> 
+<meta property="og:image" content=""> 
 
 <table>
     <tr>
@@ -6,7 +6,7 @@
         <th>RaviShankar Prasad</th>
     </tr>
     <tr>
-        <td><img src="/images/rsp_photo_mono.jpg" width="400" ></td>
+        <td><img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/rsp_photo_mono.jpg" width="400" ></td>
         <td><ul>
             <li> A scientist in <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"> speech, biomedical, and text processing domains</a> </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
