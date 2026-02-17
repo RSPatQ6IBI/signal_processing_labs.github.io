@@ -11,7 +11,7 @@
         <th> </th>
     </tr>
     <tr>
-        <td> <img src="/images/rsp_photo_mono.jpg"  alt="isolated" width="200" >  </td>
+        <td> <img src="/images/rsp_photo_mono.jpg" width="200" >  </td>
         <td><ul>
             <li> A scientist in the speech, biomedical, and text processing domains </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
