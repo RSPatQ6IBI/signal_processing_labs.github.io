@@ -9,7 +9,7 @@
         <th>RaviShankar Prasad</th>
     </tr>
     <tr>
-        <td><img src="images/git.svg"/></td>
+        <td><img src="images/rsp_photo_mono.svg"/></td>
         <td><ul>
             <li> A scientist in <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"> speech, biomedical, and text processing domains</a> </li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, automated analytics engines, agentic AI systems, speech processing, biomedical signal processing </li>
