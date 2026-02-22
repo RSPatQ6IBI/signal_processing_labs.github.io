@@ -41,10 +41,9 @@
             <li> 
             <a href="https://colab.research.google.com/drive/1bIK6JTMmp04jKm4JxOwccJa0QjWjBtdM?usp=sharing"> Colab notebook </a> 
             <p>
-            The project explores the ability of distilbert model to classify emotions in text. The distilbert based emotion classification 
+            The project explores the ability of distilbert model to classify emotions in text. Initially, we use the <a href="https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english?text=I+like+you.+I+love+you">default model</a> to predict sentiment, which usually gives classification within positive and negative classes. The code uses the <a href='https://github.com/Lightning-AI/pytorch-lightning'>pytorch lightening</a> library to finetune the model to generate multiclass output. The model is finetuned over the <a href='https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/'></a> Go-Emotions dataset.  
             </p>
             </li>
-            <li>bbb</li>
         </ul></td>
     </tr>
     <tr>
