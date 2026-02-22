@@ -10,7 +10,7 @@
         <th>RaviShankar Prasad</th>
     </tr>
     <tr>
-        <td><img style='border:10px solid #73bdeb' align="left" width="200" height="350" src="images/mugshot_.svg"/></td>
+        <td><img style='border:2px solid #73bdeb' align="left" width="180" height="300" src="images/mugshot_.svg"/></td>
         <td><ul>
             <li> A <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"><strong>scientist</strong></a>  in speech, biomedical, and text processing domains</li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, AI based analytics engines, agentic systems, speech processing, biomedical signal processing </li>
@@ -27,15 +27,16 @@
 
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
 
+<!-- <table style="margin: 10px auto;"></table> -->
 <table>
     <tr>
-        <th>Research</th>
+        <th>Recent Projects</th>
         <th>Description and links </th>
     </tr>
     <tr>
-        <td>List</td>
+        <td>Emotion Classification using Distilbert Model</td>
         <td><ul>
-            <li>aaa</li>
+            <button name="button" onclick="https://colab.research.google.com/drive/1bIK6JTMmp04jKm4JxOwccJa0QjWjBtdM?usp=sharing"> Colab notebook </button>
             <li>bbb</li>
         </ul></td>
     </tr>
