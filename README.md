@@ -47,6 +47,18 @@
         </ul></td>
     </tr>
     <tr>
+        <td>R-peak identification in ECG using ZFF</td>
+        <td><ul>
+            <li> 
+            <a href="https://colab.research.google.com/drive/1475oxkxPXxoxd1yZF175Vro3yaeM_0b-?usp=sharing"> Colab notebook </a> 
+            <p>
+            The project explores possibility of using the zero frequency filtering (ZFF) method for R-peak identification in ECG. The spectral characteristics of temporal discontinuity in a signal are evenly spread across all bands, including very low frequencies such as in the vicinity of 0 Hz. Building upon this understanding, in speech processing zero frequency filtering (ZFF) based approach for detecting impulse-like excitations (instants of significant excitations) has been proposed. The R–peak appears as a discontinuity in the cardiac activity, i.e., the QRS complex in ECG exhibits a transient–like behavior. Furthermore, the QRS complex is a pseudo–periodic phenomena, similar to glottal excitations in voiced speech signal. Motivated by these similarities, we propose an approach to effectively detect R-peak using zero frequency filtering.
+            </p>
+            </li>
+        </ul></td>
+    </tr>
+
+    <tr>
         <td>Code block</td>
         <td>
             <pre><code>
