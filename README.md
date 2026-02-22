@@ -29,6 +29,8 @@
 
 <!-- <table style="margin: 10px auto;"></table> -->
 <table>
+<!-- <table border="1"  bgcolor="#D6EEEE"> -->
+<table border="1"  background-color:rgba(.3,.2,.1,.5)>
     <tr>
         <th>Recent Projects</th>
         <th>Description and links </th>
@@ -36,7 +38,12 @@
     <tr>
         <td>Emotion Classification using Distilbert Model</td>
         <td><ul>
-            <button name="button" onclick="https://colab.research.google.com/drive/1bIK6JTMmp04jKm4JxOwccJa0QjWjBtdM?usp=sharing"> Colab notebook </button>
+            <li> 
+            <a href="https://colab.research.google.com/drive/1bIK6JTMmp04jKm4JxOwccJa0QjWjBtdM?usp=sharing"> Colab notebook </a> 
+            <p>
+            The project explores the ability of distilbert model to classify emotions in text. The distilbert based emotion classification 
+            </p>
+            </li>
             <li>bbb</li>
         </ul></td>
     </tr>
