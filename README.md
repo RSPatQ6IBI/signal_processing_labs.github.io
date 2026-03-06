@@ -26,8 +26,8 @@
 
 
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
-
 <!-- <table style="margin: 10px auto;"></table> -->
+
 <table>
 <!-- <table border="1"  bgcolor="#D6EEEE"> -->
 <!-- <table border="1"  background-color:rgba(.3,.2,.1,.5)> -->
@@ -68,17 +68,3 @@
             </li>
         </ul></td>
     </tr>
-
-    <tr>
-        <td>Code block</td>
-        <td>
-            <pre><code>
-ccc
-            </code></pre>
-        </td>
-    </tr>
-    <tr>
-        <td>Image</td>
-        <td><img src="/images/GrandChavalard_SNOW.jpg"/></td>
-    </tr>
-</table>
