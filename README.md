@@ -43,7 +43,7 @@
             <li> 
             <p>
             The project explores the ability of distilbert model to classify emotions in text. Initially, we use the <a href="https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english?text=I+like+you.+I+love+you">default model</a> to predict sentiment, which usually gives classification within positive and negative classes. The code uses the <a href='https://github.com/Lightning-AI/pytorch-lightning'>pytorch lightening</a> library to finetune the model to generate multiclass output. The model is finetuned over the <a href='https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/'>Go-Emotions dataset</a>. 
-            <img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/emotion_classes_.png" alt="An example image" width="650"/> 
+            <img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/emotion_classes_.svg" alt="An example image" width="650"/> 
             </p>
             </li>
         </ul></td>
@@ -54,7 +54,7 @@
             <li> 
             <p>
             The project explores possibility of using the zero frequency filtering (ZFF) method for R-peak identification in ECG. The spectral characteristics of temporal discontinuity in a signal are evenly spread across all bands, including very low frequencies such as in the vicinity of 0 Hz. Building upon this understanding, in speech processing zero frequency filtering (ZFF) based approach for detecting impulse-like excitations (instants of significant excitations) has been proposed. The R–peak appears as a discontinuity in the cardiac activity, i.e., the QRS complex in ECG exhibits a transient–like behavior. Furthermore, the QRS complex is a pseudo–periodic phenomena, similar to glottal excitations in voiced speech signal. Motivated by these similarities, we propose an approach to effectively detect R-peak using zero frequency filtering.
-            <img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/ecg_zff_.png" alt="An example image" width="650"/>
+            <img src="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/images/ecg_zff_.svg" alt="An example image" width="650"/>
             </p>
             </li>
         </ul></td>
