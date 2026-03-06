@@ -70,5 +70,6 @@
     </tr>
 </table>
 
-<img src="/images/GrandChavalard_SNOW.svg" width="500" height="600"> 
+<img src="/images/GrandChavalard_SNOW.svg" width="800" height="300"> 
+
 
