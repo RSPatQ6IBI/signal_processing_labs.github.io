@@ -29,8 +29,8 @@
 <!-- <table style="margin: 10px auto;"></table> -->
 
 <table>
-<!-- <table border="1"  bgcolor="#D6EEEE"> -->
-<!-- <table border="1"  background-color:rgba(.3,.2,.1,.5)> -->
+<table border="1"  bgcolor="#D6EEEE">
+
     <tr>
         <th>Recent Projects</th>
         <th>Description and links </th>
@@ -68,3 +68,6 @@
             </li>
         </ul></td>
     </tr>
+
+
+<img src="images/GrandChavalard_SNOW.svg" alt="Grand Chavalard" width="500" height="600">
