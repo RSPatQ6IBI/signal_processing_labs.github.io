@@ -25,6 +25,7 @@
 </table>
 
 
+
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
 
 <!-- <table style="margin: 10px auto;"></table> -->
@@ -70,6 +71,6 @@
     </tr>
 </table>
 
-<img src="/images/GrandChavalard_SNOW.svg" width="800" height="300"> 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1475oxkxPXxoxd1yZF175Vro3yaeM_0b-?usp=sharing)
 
