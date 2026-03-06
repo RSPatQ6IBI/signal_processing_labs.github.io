@@ -48,7 +48,7 @@
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://colab.research.google.com/drive/1bIK6JTMmp04jKm4JxOwccJa0QjWjBtdM?usp=sharing"> Emotion Classification using Distilbert Model </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb"> Emotion Classification using Distilbert Model </a> 
         </td>
         <td><ul>
             <li> 
