@@ -26,11 +26,11 @@
 
 
 <!-- <button name="button" onclick="http://www.google.com">Click me</button> -->
+
 <!-- <table style="margin: 10px auto;"></table> -->
-
 <table>
-<table border="1"  bgcolor="#D6EEEE">
-
+<!-- <table border="1"  bgcolor="#D6EEEE"> -->
+<!-- <table border="1"  background-color:rgba(.3,.2,.1,.5)> -->
     <tr>
         <th>Recent Projects</th>
         <th>Description and links </th>
@@ -68,6 +68,7 @@
             </li>
         </ul></td>
     </tr>
+</table>
 
+<img src="/images/GrandChavalard_SNOW.svg" width="500" height="600"> 
 
-<img src="images/GrandChavalard_SNOW.svg" alt="Grand Chavalard" width="500" height="600">
