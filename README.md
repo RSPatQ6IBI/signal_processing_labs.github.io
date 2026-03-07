@@ -12,12 +12,12 @@
     <tr>
         <td><img style='border:2px solid #73bdeb' align="left" width="180" height="300" src="images/mugshot_.svg"/></td>
         <td><ul>
-            <li> A <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"><strong>scientist</strong></a>  in speech, biomedical, and text processing domains</li>
+            <li> A <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ" target="_blank"><strong>scientist</strong></a>  in speech, biomedical, and text processing domains</li>
             <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, AI based analytics engines, agentic systems, speech processing, biomedical signal processing </li>
-            <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html"><strong>PhD in Speech Signal Processing</strong></a> with <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana"><strong>Prof. B. Yegnanarayana</strong></a> </li> from <a href="https://www.iiit.ac.in/"> <strong>IIIT Hyderabad</strong></a>
-            <li> Postdoctoral Researcher <a href="https://www.idiap.ch/en/"><strong>Idiap Research Institute</strong></a> (2018-2022)</li>
-            <li>Scientist at <a href="https://whispp.com/"><strong>Whispp Inc.</strong></a> (2022-2023)</li>
-            <li>Chief Operation Officer at <a href="https://vocab-ai.com/"><strong>Vocab.AI</strong></a> (2023-2026)</li>
+            <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html" target="_blank"><strong>PhD in Speech Signal Processing</strong></a> with <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana" target="_blank"><strong>Prof. B. Yegnanarayana</strong></a> </li> from <a href="https://www.iiit.ac.in/" target="_blank"> <strong>IIIT Hyderabad</strong></a>
+            <li> Postdoctoral Researcher <a href="https://www.idiap.ch/en/" target="_blank"><strong>Idiap Research Institute</strong></a> (2018-2022)</li>
+            <li>Scientist at <a href="https://whispp.com/" target="_blank"><strong>Whispp Inc.</strong></a> (2022-2023)</li>
+            <li>Chief Operation Officer at <a href="https://vocab-ai.com/" target="_blank"><strong>Vocab.AI</strong></a> (2023-2026)</li>
             <li>Skills : Machine learning, Deep Learning, Neural Netowrks, Text Processing, Audio Processing, LLMs</li>
             <li>Hobbies : Photography, Fiction, Blues music</li>
         </ul></td>
@@ -33,7 +33,7 @@
         <th>Description </th>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb"> Emotion Classification using Distilbert Model </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb" target="_blank"> Emotion Classification using Distilbert Model </a> 
         </td>
         <td><ul>
             <li> 
@@ -45,7 +45,7 @@
         </ul></td>
         </tr>
     <tr>
-        <td> <a href="https://github.com/RSPatQ6IBI/ECG_analysis_using_ZFF"> R-peak identification in ECG using ZFF </a></td>
+        <td> <a href="https://github.com/RSPatQ6IBI/ECG_analysis_using_ZFF" target="_blank"> R-peak identification in ECG using ZFF </a></td>
         <td><ul>
             <li> 
             <p>
@@ -65,7 +65,7 @@
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/the_random_forest_tutorial_.ipynb"> Random Forest</a> 
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/the_random_forest_tutorial_.ipynb" target="_blank"> Random Forest</a> 
         </td>
         <td><ul>
             <li>Discusses growing a random forest </li>
@@ -73,7 +73,7 @@
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb"> Decision Trees </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb" target="_blank"> Decision Trees </a> 
         </td>
         <td><ul>
             <li> Design decision tree from scratch </li>
@@ -81,7 +81,7 @@
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb"> Decision Trees </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb" target="_blank"> Decision Trees </a> 
         </td>
         <td><ul>
             <li> Design decision tree from scratch </li>
