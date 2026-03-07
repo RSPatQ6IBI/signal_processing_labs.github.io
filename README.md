@@ -70,7 +70,8 @@
         </td>
         <td><ul>
             <li>Discusses growing a random forest </li>
-            <li> Uses scipy and rasterstats </li>
+            <li> Uses scipy and rasterstats </li> 
+            <li><a href="https://mlu-explain.github.io/random-forest/"  target="_blank">A cool guide to random forests</a> </li>
         </ul></td>
     </tr>
     <tr>
@@ -79,7 +80,7 @@
         <td><ul>
             <li> Design decision tree from scratch </li>
             <li> Explains using entropy and information gain as splitting criteria </li>
-            <li><a href="https://mlu-explain.github.io/decision-tree/">A cool guide to decision trees</a> </li>
+            <li><a href="https://mlu-explain.github.io/decision-tree/"  target="_blank">A cool guide to decision trees</a> </li>
         </ul></td>
     </tr>
     <tr>
