@@ -58,4 +58,26 @@
 </table>
 
 
-<h>Tutorials</h>
+<table>
+<table border="3"  bgcolor="#595487">
+    <tr>
+        <th>Tutorials</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/the_random_forest_tutorial_.ipynb"> Random Forest</a> 
+        </td>
+        <td><ul>
+            <li>Discusses growing a random forest </li>
+            <li> Uses scipy and rasterstats </li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb"> Decision Trees </a> 
+        </td>
+        <td><ul>
+            <li> Design decision tree from scratch </li>
+            <li> Explains using entropy and information gain as splitting criteria </li>
+        </ul></td>
+    </tr>
+</table>
