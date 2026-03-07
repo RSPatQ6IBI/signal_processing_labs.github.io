@@ -4,8 +4,8 @@
 
 <div style="background-image: url('images/GrandChavalard_SNOW.svg'); background-size: cover; padding: 20px;">
 
-<div style="display: flex; justify-content: center;">
-<table>
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%;">
     <tr>
         <th> </th>
         <th>RaviShankar Prasad</th>
@@ -27,8 +27,8 @@
 
 </div>
 
-<div style="display: flex; justify-content: center;">
-<table border="1"  bgcolor="#D6EEEE">
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%;" border="1"  bgcolor="#D6EEEE">
     <tr>
         <th>Recent Projects</th>
         <th>Description </th>
@@ -59,8 +59,8 @@
 </table>
 </div>
 
-<div style="display: flex; justify-content: center;">
-<table border="1"  bgcolor="#9be9d0">
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%;" border="1"  bgcolor="#9be9d0">
     <tr>
         <th>Tutorials</th>
         <th>Description</th>
