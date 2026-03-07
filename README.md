@@ -26,18 +26,14 @@
 
 
 
-
-<!-- <table style="margin: 10px auto;"></table> -->
 <table>
-<!-- <table border="1"  bgcolor="#D6EEEE"> -->
-<!-- <table border="1"  background-color:rgba(.3,.2,.1,.5)> -->
+<table border="1"  bgcolor="#D6EEEE">
     <tr>
         <th>Recent Projects</th>
         <th>Description </th>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb"> Emotion Classification using Distilbert Model </a>        
-        <button name="button" onclick="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb">Emotion Classification using Distilbert Model</button>
+        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb"> Emotion Classification using Distilbert Model </a> 
         </td>
         <td><ul>
             <li> 
