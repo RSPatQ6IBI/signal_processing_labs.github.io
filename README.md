@@ -59,7 +59,7 @@
 
 
 <table>
-<table border="3"  bgcolor="#595487">
+<table border="1"  bgcolor="#9be9d0">
     <tr>
         <th>Tutorials</th>
         <th>Description</th>
