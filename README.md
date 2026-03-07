@@ -4,6 +4,7 @@
 
 <div style="background-image: url('images/GrandChavalard_SNOW.svg'); background-size: cover; padding: 20px;">
 
+<div style="display: flex; justify-content: center;">
 <table>
     <tr>
         <th> </th>
@@ -24,9 +25,9 @@
     </tr>
 </table>
 
+</div>
 
-
-<table>
+<div style="display: flex; justify-content: center;">
 <table border="1"  bgcolor="#D6EEEE">
     <tr>
         <th>Recent Projects</th>
@@ -56,9 +57,9 @@
         </ul></td>
     </tr>
 </table>
+</div>
 
-
-<table>
+<div style="display: flex; justify-content: center;">
 <table border="1"  bgcolor="#9be9d0">
     <tr>
         <th>Tutorials</th>
