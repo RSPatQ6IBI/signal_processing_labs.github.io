@@ -80,4 +80,12 @@
             <li> Explains using entropy and information gain as splitting criteria </li>
         </ul></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb"> Decision Trees </a> 
+        </td>
+        <td><ul>
+            <li> Design decision tree from scratch </li>
+            <li> Explains using entropy and information gain as splitting criteria </li>
+        </ul></td>
+    </tr>
 </table>
