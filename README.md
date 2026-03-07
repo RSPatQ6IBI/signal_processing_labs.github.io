@@ -84,11 +84,11 @@
         </ul></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/decision_tree_.ipynb" target="_blank"> Decision Trees </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/text_handling_NLP_.ipynb" target="_blank"> Text Tokenization and Generating Embeddings  </a> 
         </td>
         <td><ul>
-            <li> Design decision tree from scratch </li>
-            <li> Explains using entropy and information gain as splitting criteria </li>
+            <li> Explains text tokenization based on different models </li>
+            <li> Explains generation of embeddings and methods to index those </li>
         </ul></td>
     </tr>
 </table>
