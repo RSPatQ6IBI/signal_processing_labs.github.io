@@ -46,6 +46,17 @@
         </ul></td>
         </tr>
     <tr>
+        <td> <a href="https://colab.research.google.com/drive/1bqOwXiMEOAASIjZrxPWIEuWxVgIfxDjf?usp=sharing" target="_blank"> Chatbot forwebpage using webcrawler </a></td>
+        <td><ul>
+            <li> 
+            <p>
+            The notebook details methods for scrapping text from webpages and building a chatbot on top of it. The scrapping uses the package <strong>BEAUTIFUL SOUP</strong> 
+            <img style='border:2px solid #73bdeb' align="left" width="650" src="images/ecg_zff_.svg"/>
+            </p>
+            </li>
+        </ul></td>
+    </tr>
+    <tr>
         <td> <a href="https://github.com/RSPatQ6IBI/ECG_analysis_using_ZFF" target="_blank"> R-peak identification in ECG using ZFF </a></td>
         <td><ul>
             <li> 
