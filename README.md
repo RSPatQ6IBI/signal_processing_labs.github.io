@@ -46,7 +46,7 @@
         </ul></td>
         </tr>
     <tr>
-        <td> <a href="https://colab.research.google.com/drive/1bqOwXiMEOAASIjZrxPWIEuWxVgIfxDjf?usp=sharing" target="_blank"> Chatbot forwebpage using webcrawler </a></td>
+        <td> <a href="https://colab.research.google.com/drive/1bqOwXiMEOAASIjZrxPWIEuWxVgIfxDjf?usp=sharing" target="_blank"> Chatbot for webpage using webcrawler </a></td>
         <td><ul>
             <li> 
             <p>
