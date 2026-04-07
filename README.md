@@ -51,7 +51,7 @@
             <li> 
             <p>
             The notebook details methods for scrapping text from webpages and building a chatbot on top of it. The scrapping uses the package <strong>BEAUTIFUL SOUP</strong> 
-            <img style='border:2px solid #73bdeb' align="left" width="650" src="images/ecg_zff_.svg"/>
+            <img style='border:2px solid #73bdeb' align="left" width="650" src="images/webscrapping_ww2.svg"/>
             </p>
             </li>
         </ul></td>
