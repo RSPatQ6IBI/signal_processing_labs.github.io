@@ -34,7 +34,7 @@
         <th>Description </th>
     </tr>
     <tr>
-        <td><a href=" https://github.com/RSPatQ6IBI/emotion_classification_distilbert_.git" target="_blank"> Emotion Classification using Distilbert Model </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/emotion_classification_distilbert_.git" target="_blank"> Emotion Classification using Distilbert Model </a> 
         </td>
         <td><ul>
             <li> 
