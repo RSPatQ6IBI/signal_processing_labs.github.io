@@ -54,6 +54,7 @@
                     </ul>
                 </li>
                 <li>🛠️ <strong>Tech Stack:</strong> LLMs, Deep Learning, Neural Networks, MLOps, Audio & Text Signal Processing.</li>
+                <li>☁️ <strong>Cloud & DevOps:</strong> Google Cloud Platform (GCP), CI/CD Pipelines, Model Deployment, REST APIs.</li>
                 <li>🎨 <strong>Beyond the Code:</strong> Photography enthusiast, fiction reader, and a deep love for Blues music 🎸.</li>
             </ul>
             <p align="left">
