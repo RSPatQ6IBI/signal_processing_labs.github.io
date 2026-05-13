@@ -57,7 +57,7 @@
                 <li>🎨 <strong>Beyond the Code:</strong> Photography enthusiast, fiction reader, and a deep love for Blues music 🎸.</li>
             </ul>
             <p align="left">
-                <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+                <a href="https://linkedin.com/in/ravishankar-prasad-b9907924/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
                 <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
             </p>
         </td>
