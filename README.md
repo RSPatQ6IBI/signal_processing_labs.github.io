@@ -66,38 +66,110 @@
 </div>
 
 
-# 📚 Publications & Research
 
-## 🛠️ Research Pillars
 
-| Category | Focus & Methodologies |
-| :--- | :--- |
-| **Signal Processing** | Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions |
-| **Speech Science** | Glottal Activity, Nasalization, Fricative Classification, Pitch Estimation |
-| **Bio-Signals** | Phonocardiogram (PCG) Analysis, COVID-19 Detection |
-| **Deep Learning** | Raw Waveform Embeddings, Emotion Recognition, Supervised Autoencoders |
-
----
-
-## 📄 Peer-Reviewed Publications
-
-| Year | Type | Publication Title & Authors | Venue | Link |
-| :--- | :---: | :--- | :--- | :---: |
-| **2023** | 🎤 | **Automatic Speech Recognition for Odia Language** <br> *Mishra, N., Dash, S. R., Prasad, R., Parida, S.* | FICTA (Springer) | [🔗](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) |
-| **2022** | 🎤 | **Unsupervised VAD via Source/System Modeling** <br> *Sarkar, E., Prasad, R., Doss, M. M.* | Interspeech | [🔗](https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content) |
-| **2022** | 🎤 | **Neural Network Embeddings for COVID-19 Detection** <br> *Mostaani, Z., Prasad, R., Vlasenko, B., Doss, M. M.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1) |
-| **2021** | 📰 | **Vowel Nasalization using Instantaneous Spectra** <br> *Prasad, R., Yegnanarayana, B.* | Comp. Speech & Lang. | [🔗](https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract) |
-| **2021** | 🎤 | **Identification of F1/F2 using Modified ZFF** <br> *Prasad, R., Doss, M. M.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf) |
-| **2021** | 🎤 | **Fusion via Supervised Autoencoder for Emotion Recognition** <br> *Vlasenko, B., Prasad, R., Doss, M. M.* | MMAC | [🔗](https://dl.acm.org/doi/pdf/10.1145/3475957.3484448) |
-| **2020** | 📰 | **GCI & Glottal Open Region via Spectral Flatness** <br> *Kadiri, S. R., Prasad, R., Yegnanarayana, B.* | Speech Comm. | [🔗](https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004) |
-| **2020** | 🎤 | **S1/S2 locations in PCG signals using ZFF** <br> *Prasad, R., Yilmaz, G., Chetelat, O., Doss, M. M.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/abstract/document/9053155) |
-| **2020** | 🎤 | **Closed Phase Resonance Bandwidths via ZTW** <br> *Abbas, H. D., Prasad, R., Nellore, B. T., Gangashetty, S. V.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/abstract/document/9054682) |
-| **2018** | 🎤 | **Discriminating Nasals and Approximants via ZTW** <br> *Prasad, R., Kadiri, S. R., Gangashetty, S. V., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf) |
-| **2018** | 🎤 | **Classification of Fricatives using ZTW** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf) |
-| **2017** | 🎤 | **Locating Burst Onsets using SFF & Phase** <br> *Nellore, B. T., Prasad, R., Kadiri, S. R., Gangashetty, S. V., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf) |
-| **2016** | 📰 | **Glottal Open Regions via Vocal Tract Changes** <br> *Prasad, R., Yegnanarayana, B.* | JASA | [🔗](https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext) |
-| **2015** | 🎤 | **Robust Pitch Estimation via ZTW & Group Delay** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2015/prasad15b_interspeech.pdf) |
-| **2013** | 🎤 | **Acoustic Segmentation using Zero Time Liftering** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf) |
+<title>Publications & Research - RaviShankar Prasad</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        h1, h2 { color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; }
+        .res-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 0.95em;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        .res-table thead tr {
+            background-color: #2c3e50;
+            color: #ffffff;
+            text-align: left;
+        }
+        .res-table th, .res-table td { padding: 12px 15px; border: 1px solid #ddd; }
+        .res-table tbody tr:nth-of-type(even) { background-color: #f3f3f3; }
+        .res-table tbody tr:hover { background-color: #f1f7ff; transition: 0.3s; }
+        .pillar-table td:first-child { font-weight: bold; width: 30%; color: #2980b9; }
+        .type-icon { font-size: 1.2em; text-align: center; }
+        .link-icon { text-decoration: none; font-size: 1.2em; }
+        .year-cell { font-weight: bold; color: #7f8c8d; }
+        .author-text { font-size: 0.85em; color: #555; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>📚 Publications & Research</h1>
+    <p>Welcome to my research repository! My work primarily focuses on <strong>Speech Signal Processing</strong>, <strong>Acoustics</strong>, and <strong>Machine Learning</strong>.</p>
+    <h2>🛠️ Research Pillars</h2>
+    <table class="res-table pillar-table">
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Focus & Methodologies</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Signal Processing</td><td>Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions</td></tr>
+            <tr><td>Speech Science</td><td>Glottal activity, Nasalization, Fricative classification, Pitch estimation</td></tr>
+            <tr><td>Bio-Signals</td><td>Phonocardiogram (PCG) analysis, COVID-19 detection</td></tr>
+            <tr><td>Deep Learning</td><td>Raw waveform embeddings, Emotion recognition, Supervised Autoencoders</td></tr>
+        </tbody>
+    </table>
+    <h2>📄 Peer-Reviewed Publications</h2>
+    <table class="res-table">
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Type</th>
+                <th>Publication Details</th>
+                <th>Venue</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- 2023 -->
+            <tr>
+                <td class="year-cell">2023</td>
+                <td class="type-icon">🎤</td>
+                <td><strong>Automatic Speech Recognition for Odia Language</strong><br><span class="author-text">Mishra, N., Dash, S. R., Prasad, R., Parida, S.</span></td>
+                <td>FICTA (Springer)</td>
+                <td style="text-align:center"><a href="https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC" class="link-icon">🔗</a></td>
+            </tr>
+            <!-- 2022 -->
+            <tr>
+                <td class="year-cell">2022</td>
+                <td class="type-icon">🎤</td>
+                <td><strong>Unsupervised VAD via Source/System Modeling</strong><br><span class="author-text">Sarkar, E., Prasad, R., Doss, M. M.</span></td>
+                <td>Interspeech</td>
+                <td style="text-align:center"><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" class="link-icon">🔗</a></td>
+            </tr>
+            <tr>
+                <td class="year-cell">2022</td>
+                <td class="type-icon">🎤</td>
+                <td><strong>Neural Network Embeddings for COVID-19 Detection</strong><br><span class="author-text">Mostaani, Z., Prasad, R., Vlasenko, B., Doss, M. M.</span></td>
+                <td>ICASSP (IEEE)</td>
+                <td style="text-align:center"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271" class="link-icon">🔗</a></td>
+            </tr>
+            <!-- 2021 -->
+            <tr>
+                <td class="year-cell">2021</td>
+                <td class="type-icon">📰</td>
+                <td><strong>Vowel Nasalization using Instantaneous Spectra</strong><br><span class="author-text">Prasad, R., Yegnanarayana, B.</span></td>
+                <td>Comp. Speech & Lang.</td>
+                <td style="text-align:center"><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" class="link-icon">🔗</a></td>
+            </tr>
+            <!-- 2020 -->
+            <tr>
+                <td class="year-cell">2020</td>
+                <td class="type-icon">📰</td>
+                <td><strong>GCI & Glottal Open Region via Spectral Flatness</strong><br><span class="author-text">Kadiri, S. R., Prasad, R., Yegnanarayana, B.</span></td>
+                <td>Speech Comm.</td>
+                <td style="text-align:center"><a href="https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004" class="link-icon">🔗</a></td>
+            </tr>
 
 <!-- # 📚 Publications & Research
 
