@@ -106,7 +106,7 @@
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
-                <li>🎤 <b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b> <i>Mishra, N., Dash, S. R., <b>RaviShankar Prasad</b>,Parida, S.</i> In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.<a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, </b>In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore</b><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
             </p>
         </td>
     </tr>
@@ -118,16 +118,14 @@
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
-                <li>🎤 <b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b>, <i>Eklavya Sarkar, <b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>Interspeech-2022</b>, Incheon, South Korea.  
-                <a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-                <li>🎤 <b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b>, <i>Zohreh Mostaani, <b>RaviShankar Prasad</b>, Bogdan Vlasenko, Mathew Magimai Doss</i> <b>ICASSP-2022</b>, IEEE, Singapore.
-                <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
+                <li>🎤 <i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b></i> <b>ICASSP-2022, IEEE, Singapore</b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
             </p>
         </td>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center;">
-            <h3><b>🌟 2021</b></h3>
+            <h3><b>🔬 2021--2020</b></h3>
         </th>
     </tr>
     <tr>
@@ -136,86 +134,37 @@
                 <li>🎤 <i><b>A study of vowel nasalization using instantaneous spectra</b></i>, <b>Computer Speech & Language</b><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Identification of F1 and F2 in speech using modified zero frequency filtering</b></i>, <b>Interspeech-2021, Brno, Czech Republic</b><a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
                 <li>🎤 <i><b>Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition</b></i> <b>MMAC-2021 (Multimodal Sentiment Analysis Challenge)</b><a href="https://dl.acm.org/doi/pdf/10.1145/3475957.3484448" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
+                <li>🎤 <i><b>Detection of glottal closure instant and glottal open region from speech signals using spectral flatness measure</b></i> <b>Speech Communication</b><a href="https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9053155" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9054682" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <h3><b>📈 2013 - 2015</b></h3>
+        </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: left; padding-bottom: 20px;">
+            <p> 
+                <li>🎤 <i><b>Discriminating nasals and approximants in English language using zero time windowing</b></i>, <b>Interspeech-2018, Hyderabad, India</b><a href="https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Identification and classification of fricatives in speech using zero time windowing method</b></i>, <b>Interspeech-2018, Hyderabad, India</b><a href="https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Locating burst onsets using SFF envelope and phase information</b></i>, <b>Interspeech-2017, Stockholm, Sweden</b><a href="https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Determination of glottal open regions by exploiting changes in the vocal tract system characteristics</b></i>, <b>The Journal of Acoustical Society of America (Vol 140)</b><a href="https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Acoustic segmentation of speech using zero time liftering</b></i>, <b>Interspeech-2013, Lyon, France.</b><a href="https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
             </p>
         </td>
     </tr>
 </table>
 </div>
 
-<!-- <div style="display: flex; justify-content: center; width: 100%;">
-<table style="width: 100%; border-collapse: collapse;">
-    <tr>
-        <th colspan="1" style="text-align: center; padding-bottom: 20px;">
-            <h1>📚 Publications & Research</h1>
-        </th>
-    </tr>
-</table>
-</div> -->
-
-
-
-
-
-<!-- ## 📄 Peer-Reviewed Publications
-
-### 🚀 2023
-- 🎤 **A Systematic Review on Automatic Speech Recognition for Odia Language.** *Mishra, N., Dash, S. R., **RaviShankar Prasad**,Parida, S.* (2023, April). In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.
-[Abstract/Link](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) 🔗
-### 🚀 2022
-- 🎤 **Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering** *Eklavya Sarkar, **RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2022**, Incheon, South Korea.  
-  [Abstract/Link](https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content) 🔗
-
-- 🎤 **Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection** *Zohreh Mostaani, **RaviShankar Prasad**, Bogdan Vlasenko, Mathew Magimai Doss* **ICASSP-2022**, IEEE, Singapore.  
-  [Abstract/Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1) 🔗
-
-### 🌟 2021
-- 📰 **A study of vowel nasalization using instantaneous spectra** ***RaviShankar Prasad**, B. Yegnanarayana* **Computer Speech & Language** (Vol 69).  
-  [Journal Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract) 🔗
-
-- 🎤 **Identification of F1 and F2 in speech using modified zero frequency filtering** ***RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2021**, Brno, Czech Republic.  
-  [Abstract/Link](https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf) 🔗
-
-- 🎤 **Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition** *Bogdan Vlasenko, **RaviShankar Prasad**, Mathew Magimai Doss* **MMAC-2021** (Multimodal Sentiment Analysis Challenge).  
-  [Abstract/Link](https://dl.acm.org/doi/pdf/10.1145/3475957.3484448) 🔗
-
-### 🔬 2020
-- 📰 **Detection of glottal closure instant and glottal open region from speech signals using spectral flatness measure** *Kadiri, S. R., **RaviShankar Prasad**, B. Yegnanarayana* **Speech Communication** (Vol 116).  
-  [Journal Link](https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004) 🔗
-
-- 🎤 **Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter** ***RaviShankar Prasad**, Gurkan Yilmaz, Olivier Chetelat, Mathew Magimai Doss* **ICASSP-2020**, IEEE, Barcelona, Spain.  
-  [Abstract/Link](https://ieeexplore.ieee.org/abstract/document/9053155) 🔗
-
-- 🎤 **Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing** *Abbas, H. D., **RaviShankar Prasad**, Bhanu Teja Nellore, Suryakanth V. Gangashetty* **ICASSP-2020**, IEEE, Barcelona, Spain.  
-  [Abstract/Link](https://ieeexplore.ieee.org/abstract/document/9054682) 🔗
-
-### 📈 2018 - 2015
-- 🎤 **Discriminating nasals and approximants in English language using zero time windowing** ***RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
-[Abstract/Link](https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf)🔗
-- 🎤 **Identification and classification of fricatives in speech using zero time windowing method** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
-[Abstract/Link](https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf)🔗
-
-- 🎤 **Locating burst onsets using SFF envelope and phase information** *Bhanu Teja Nellore, **RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2017**, Stockholm, Sweden.
-[Abstract/Link](https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf)🔗
-
-- 📰 **Determination of glottal open regions by exploiting changes in the vocal tract system characteristics** ***RaviShankar Prasad**, B. Yegnanarayana* **The Journal of Acoustical Society of America** (Vol 140).
-[Abstract/Link](https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext)🔗
-
-- 🎤 **Robust pitch estimation in noisy speech using ZTW and group delay function** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2015**, Dresden, Germany.
-[Abstract/Link](https://www.isca-archive.org/interspeech_2015/prasad15b_interspeech.pdf)🔗
-
-### 🌱 2013
-- 🎤 **Acoustic segmentation of speech using zero time liftering** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2013**, Lyon, France.
-[Abstract/Link](https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf)🔗
-
----
-
-## 📊 Connect with Me
+<!-- 📊 Connect with Me
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) --> -->
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) --> --> -->
 
-<!-- --- -->
-<!-- *Generated with ❤️ for researchers on GitHub.* -->
+
 
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%;" border="1"  bgcolor="#D6EEEE">
