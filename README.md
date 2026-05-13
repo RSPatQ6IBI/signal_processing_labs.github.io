@@ -70,7 +70,7 @@
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <th colspan="2" style="text-align: center; padding-bottom: 20px;">
-            <h1>📚 Publications & Research</h1>
+            <h2>📚 Publications & Research</h2>
         </th>
     </tr>
     <tr>
