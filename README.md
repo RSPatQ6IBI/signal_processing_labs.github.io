@@ -80,10 +80,16 @@
         <th colspan="2" style="text-align: center; padding-bottom: 20px;">
             <h2>🛠️ Research Pillars</h2>
         </th>
-        <tr><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</tr>
-        <tr><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</tr>
-        <tr><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</tr>
-        <tr><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</tr>
+        <tr>
+            <td style="vertical-align: top; padding-left: 20px;">
+                <p>
+                    <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
+                    <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
+                    <li><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
+                    <li><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
+                </p>
+            </td>
+        </tr>
     </tr>
 </table>
 </div>
