@@ -83,7 +83,7 @@ Welcome to my research repository! My work primarily focuses on **Speech Signal 
 
 ### 🚀 2023
 - 🎤 **A Systematic Review on Automatic Speech Recognition for Odia Language.** *Mishra, N., Dash, S. R., **RaviShankar Prasad**,Parida, S.* (2023, April). In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.
-[Abstract/Link]([https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC]) 🔗
+[Abstract/Link](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) 🔗
 ### 🚀 2022
 - 🎤 **Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering** *Eklavya Sarkar, **RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2022**, Incheon, South Korea.  
   [Abstract/Link] 🔗
