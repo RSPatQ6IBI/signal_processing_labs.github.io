@@ -110,6 +110,35 @@
             </p>
         </td>
     </tr>
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <h3><b>🚀 2022</b></h3>
+        </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: left; padding-bottom: 20px;">
+            <p> 
+                <li>🎤 <b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b>, <i>Eklavya Sarkar, <b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>Interspeech-2022</b>, Incheon, South Korea.  
+                <a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b>, <i>Zohreh Mostaani, <b>RaviShankar Prasad</b>, Bogdan Vlasenko, Mathew Magimai Doss</i> <b>ICASSP-2022</b>, IEEE, Singapore.
+                <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <h3><b>🌟 2021</b></h3>
+        </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: left; padding-bottom: 20px;">
+            <p> 
+                <li>🎤 <b>A study of vowel nasalization using instantaneous spectra</b>, <i><b>RaviShankar Prasad</b>,  B. Yegnanarayana,</i> <b> Computer Speech & Language</b> (Vol 69) <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 Identification of F1 and F2 in speech using modified zero frequency filtering</b>, <i><b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>Interspeech-2021</b>, Brno, Czech Republic.<a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
+                <li>🎤 <b>Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition</b>,<i>Bogdan Vlasenko, <b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>MMAC-2021</b> (Multimodal Sentiment Analysis Challenge).<a href="https://dl.acm.org/doi/pdf/10.1145/3475957.3484448" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
+            </p>
+        </td>
+    </tr>
 </table>
 </div>
 
