@@ -65,125 +65,23 @@
 </table>
 </div>
 
-
-
-
-<title>Publications & Research - RaviShankar Prasad</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 1000px;
-            margin: 40px auto;
-            padding: 0 20px;
-        }
-        h1, h2 { color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; }
-        .res-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 25px 0;
-            font-size: 0.95em;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-        }
-        .res-table thead tr {
-            background-color: #2c3e50;
-            color: #ffffff;
-            text-align: left;
-        }
-        .res-table th, .res-table td { padding: 12px 15px; border: 1px solid #ddd; }
-        .res-table tbody tr:nth-of-type(even) { background-color: #f3f3f3; }
-        .res-table tbody tr:hover { background-color: #f1f7ff; transition: 0.3s; }
-        .pillar-table td:first-child { font-weight: bold; width: 30%; color: #2980b9; }
-        .type-icon { font-size: 1.2em; text-align: center; }
-        .link-icon { text-decoration: none; font-size: 1.2em; }
-        .year-cell { font-weight: bold; color: #7f8c8d; }
-        .author-text { font-size: 0.85em; color: #555; font-style: italic; }
-    </style>
-</head>
-<body>
-    <h1>📚 Publications & Research</h1>
-    <p>Welcome to my research repository! My work primarily focuses on <strong>Speech Signal Processing</strong>, <strong>Acoustics</strong>, and <strong>Machine Learning</strong>.</p>
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+            <h1>📚 Publications & Research</h1>
+        </th>
+    </tr>
+    <tr>
+    Welcome to my research repository! My work primarily focuses on **Speech Signal Processing**, **Acoustics**, and **Machine Learning**, with a specific emphasis on source-system characterization and zero-frequency filtering.
     <h2>🛠️ Research Pillars</h2>
-    <table class="res-table pillar-table">
-        <thead>
-            <tr>
-                <th>Category</th>
-                <th>Focus & Methodologies</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td>Signal Processing</td><td>Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions</td></tr>
-            <tr><td>Speech Science</td><td>Glottal activity, Nasalization, Fricative classification, Pitch estimation</td></tr>
-            <tr><td>Bio-Signals</td><td>Phonocardiogram (PCG) analysis, COVID-19 detection</td></tr>
-            <tr><td>Deep Learning</td><td>Raw waveform embeddings, Emotion recognition, Supervised Autoencoders</td></tr>
-        </tbody>
-    </table>
-    <h2>📄 Peer-Reviewed Publications</h2>
-    <table class="res-table">
-        <thead>
-            <tr>
-                <th>Year</th>
-                <th>Type</th>
-                <th>Publication Details</th>
-                <th>Venue</th>
-                <th>Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- 2023 -->
-            <tr>
-                <td class="year-cell">2023</td>
-                <td class="type-icon">🎤</td>
-                <td><strong>Automatic Speech Recognition for Odia Language</strong><br><span class="author-text">Mishra, N., Dash, S. R., Prasad, R., Parida, S.</span></td>
-                <td>FICTA (Springer)</td>
-                <td style="text-align:center"><a href="https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC" class="link-icon">🔗</a></td>
-            </tr>
-            <!-- 2022 -->
-            <tr>
-                <td class="year-cell">2022</td>
-                <td class="type-icon">🎤</td>
-                <td><strong>Unsupervised VAD via Source/System Modeling</strong><br><span class="author-text">Sarkar, E., Prasad, R., Doss, M. M.</span></td>
-                <td>Interspeech</td>
-                <td style="text-align:center"><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" class="link-icon">🔗</a></td>
-            </tr>
-            <tr>
-                <td class="year-cell">2022</td>
-                <td class="type-icon">🎤</td>
-                <td><strong>Neural Network Embeddings for COVID-19 Detection</strong><br><span class="author-text">Mostaani, Z., Prasad, R., Vlasenko, B., Doss, M. M.</span></td>
-                <td>ICASSP (IEEE)</td>
-                <td style="text-align:center"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271" class="link-icon">🔗</a></td>
-            </tr>
-            <!-- 2021 -->
-            <tr>
-                <td class="year-cell">2021</td>
-                <td class="type-icon">📰</td>
-                <td><strong>Vowel Nasalization using Instantaneous Spectra</strong><br><span class="author-text">Prasad, R., Yegnanarayana, B.</span></td>
-                <td>Comp. Speech & Lang.</td>
-                <td style="text-align:center"><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" class="link-icon">🔗</a></td>
-            </tr>
-            <!-- 2020 -->
-            <tr>
-                <td class="year-cell">2020</td>
-                <td class="type-icon">📰</td>
-                <td><strong>GCI & Glottal Open Region via Spectral Flatness</strong><br><span class="author-text">Kadiri, S. R., Prasad, R., Yegnanarayana, B.</span></td>
-                <td>Speech Comm.</td>
-                <td style="text-align:center"><a href="https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004" class="link-icon">🔗</a></td>
-            </tr>
-
-<!-- # 📚 Publications & Research
-
-Welcome to my research repository! My work primarily focuses on **Speech Signal Processing**, **Acoustics**, and **Machine Learning**, with a specific emphasis on source-system characterization and zero-frequency filtering.
-
----
-
-## 🛠️ Research Pillars
-- **Signal Processing:** Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.
-- **Speech Science:** Glottal activity, Nasalization, Fricative classification, Pitch estimation.
-- **Bio-Signals:** Phonocardiogram (PCG) analysis, COVID-19 detection.
-- **Deep Learning:** Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.
-
----
+    <li>**Signal Processing:** Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
+    <li>**Speech Science:** Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
+    <li>**Bio-Signals:** Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
+    <li>**Deep Learning:** Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
+    </tr>
+</table>
+</div>
 
 ## 📄 Peer-Reviewed Publications
 
