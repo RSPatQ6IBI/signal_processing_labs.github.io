@@ -102,7 +102,7 @@
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p>
                 <b>🚀 2023</b> 
-                <li>🎤 **A Systematic Review on Automatic Speech Recognition for Odia Language.** *Mishra, N., Dash, S. R., **RaviShankar Prasad**,Parida, S.* (2023, April). In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.[Abstract/Link](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) 🔗</li>
+                <li>🎤 <b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b> <i>Mishra, N., Dash, S. R., <b>RaviShankar Prasad</b>,Parida, S.</i> In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.[!Abstract/Link](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) 🔗</li>
             </p>
         </td>
     </tr>
