@@ -133,9 +133,9 @@
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
-                <li>🎤 <b>A study of vowel nasalization using instantaneous spectra</b>, <i><b>RaviShankar Prasad</b>,  B. Yegnanarayana,</i> <b> Computer Speech & Language</b> (Vol 69) <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-                <li>🎤 Identification of F1 and F2 in speech using modified zero frequency filtering</b>, <i><b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>Interspeech-2021</b>, Brno, Czech Republic.<a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
-                <li>🎤 <b>Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition</b>,<i>Bogdan Vlasenko, <b>RaviShankar Prasad</b>, Mathew Magimai Doss</i> <b>MMAC-2021</b> (Multimodal Sentiment Analysis Challenge).<a href="https://dl.acm.org/doi/pdf/10.1145/3475957.3484448" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
+                <li>🎤 <i><b>A study of vowel nasalization using instantaneous spectra</b></i>, <b>Computer Speech & Language</b><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Identification of F1 and F2 in speech using modified zero frequency filtering</b></i>, <b>Interspeech-2021, Brno, Czech Republic</b><a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
+                <li>🎤 <i><b>Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition</b></i> <b>MMAC-2021 (Multimodal Sentiment Analysis Challenge)</b><a href="https://dl.acm.org/doi/pdf/10.1145/3475957.3484448" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
             </p>
         </td>
     </tr>
