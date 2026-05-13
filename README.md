@@ -4,7 +4,7 @@
 
 <div style="background-image: url('images/GrandChavalard_SNOW.svg'); background-size: cover; padding: 20px;">
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<!-- <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%;">
     <tr>
         <th> </th>
@@ -25,8 +25,45 @@
     </tr>
 </table>
 
-</div>
+</div> -->
 
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+            <h1>👋 Hello, I'm RaviShankar Prasad</h1>
+        </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: top; width: 200px;">
+            <img style='border:2px solid #73bdeb; border-radius: 10px;' align="left" width="180" height="300" src="images/mugshot_.svg"/>
+        </td>
+        <td style="vertical-align: top; padding-left: 20px;">
+            <p>
+                🚀 <strong>Scientist & Tech Leader</strong> specializing in the intersection of 
+                <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ" target="_blank">Speech, Biomedical, and Text Processing</a>.
+            </p>
+            <ul>
+                <li>🧠 <strong>Expertise:</strong> Building end-to-end solutions for Speech/Text Analytics, Agentic Systems, and Conversational AI.</li>
+                <li>🎓 <strong>Background:</strong> <a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html" target="_blank">PhD in Speech Signal Processing</a> under the guidance of <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana" target="_blank">Prof. B. Yegnanarayana</a> at <a href="https://www.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>.</li>
+                <li>🌍 <strong>Journey:</strong> 
+                    <ul>
+                        <li>🔬 <em>Postdoc:</em> <a href="https://www.idiap.ch/en/" target="_blank">Idiap Research Institute</a> (2018-2022)</li>
+                        <li>🔊 <em>Scientist:</em> <a href="https://whispp.com/" target="_blank">Whispp Inc.</a> (2022-2023)</li>
+                        <li>💼 <em>COO:</em> <a href="https://vocab-ai.com/" target="_blank">Vocab.AI</a> (2023-2026)</li>
+                    </ul>
+                </li>
+                <li>🛠️ <strong>Tech Stack:</strong> LLMs, Deep Learning, Neural Networks, MLOps, Audio & Text Signal Processing.</li>
+                <li>🎨 <strong>Beyond the Code:</strong> Photography enthusiast, fiction reader, and a deep love for Blues music 🎸.</li>
+            </ul>
+            <p align="left">
+                <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+                <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
+            </p>
+        </td>
+    </tr>
+</table>
+</div>
 
 # 📚 Publications & Research
 
