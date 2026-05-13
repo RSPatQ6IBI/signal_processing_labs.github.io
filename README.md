@@ -27,6 +27,74 @@
 
 </div>
 
+
+# 📚 Publications & Research
+
+Welcome to my research repository! My work primarily focuses on **Speech Signal Processing**, **Acoustics**, and **Machine Learning**, with a specific emphasis on source-system characterization and zero-frequency filtering.
+
+---
+
+## 🛠️ Research Pillars
+- **Signal Processing:** Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.
+- **Speech Science:** Glottal activity, Nasalization, Fricative classification, Pitch estimation.
+- **Bio-Signals:** Phonocardiogram (PCG) analysis, COVID-19 detection.
+- **Deep Learning:** Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.
+
+---
+
+## 📄 Peer-Reviewed Publications
+
+### 🚀 2022
+- 🎤 **Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering** *Eklavya Sarkar, **RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2022**, Incheon, South Korea.  
+  [Abstract/Link] 🔗
+
+- 🎤 **Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection** *Zohreh Mostaani, **RaviShankar Prasad**, Bogdan Vlasenko, Mathew Magimai Doss* **ICASSP-2022**, IEEE, Singapore.  
+  [Abstract/Link] 🔗
+
+### 🌟 2021
+- 📰 **A study of vowel nasalization using instantaneous spectra** ***RaviShankar Prasad**, B. Yegnanarayana* **Computer Speech & Language** (Vol 69).  
+  [Journal Link] 🔗
+
+- 🎤 **Identification of F1 and F2 in speech using modified zero frequency filtering** ***RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2021**, Brno, Czech Republic.  
+  [Abstract/Link] 🔗
+
+- 🎤 **Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition** *Bogdan Vlasenko, **RaviShankar Prasad**, Mathew Magimai Doss* **MMAC-2021** (Multimodal Sentiment Analysis Challenge).  
+  [Abstract/Link] 🔗
+
+### 🔬 2020
+- 📰 **Detection of glottal closure instant and glottal open region from speech signals using spectral flatness measure** *Kadiri, S. R., **RaviShankar Prasad**, B. Yegnanarayana* **Speech Communication** (Vol 116).  
+  [Journal Link] 🔗
+
+- 🎤 **Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter** ***RaviShankar Prasad**, Gurkan Yilmaz, Olivier Chetelat, Mathew Magimai Doss* **ICASSP-2020**, IEEE, Barcelona, Spain.  
+  [Abstract/Link] 🔗
+
+- 🎤 **Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing** *Abbas, H. D., **RaviShankar Prasad**, Bhanu Teja Nellore, Suryakanth V. Gangashetty* **ICASSP-2020**, IEEE, Barcelona, Spain.  
+  [Abstract/Link] 🔗
+
+### 📈 2018 - 2015
+- 🎤 **Discriminating nasals and approximants in English language using zero time windowing** ***RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
+
+- 🎤 **Identification and classification of fricatives in speech using zero time windowing method** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
+
+- 🎤 **Locating burst onsets using SFF envelope and phase information** *Bhanu Teja Nellore, **RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2017**, Stockholm, Sweden.
+
+- 📰 **Determination of glottal open regions by exploiting changes in the vocal tract system characteristics** ***RaviShankar Prasad**, B. Yegnanarayana* **The Journal of Acoustical Society of America** (Vol 140).
+
+- 🎤 **Robust pitch estimation in noisy speech using ZTW and group delay function** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2015**, Dresden, Germany.
+
+### 🌱 2013
+- 🎤 **Acoustic segmentation of speech using zero time liftering** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2013**, Lyon, France.
+
+---
+
+## 📊 Connect with Me
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_SCHOLAR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK)
+
+---
+*Generated with ❤️ for researchers on GitHub.*
+
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%;" border="1"  bgcolor="#D6EEEE">
     <tr>
