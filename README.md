@@ -68,18 +68,18 @@
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <th style="text-align: center; padding-bottom: 20px;">
-            <h1>Publications & Research</h1>
+        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+            <h1>📚 Publications & Research</h1>
         </th>
     </tr>
-    <tr style="vertical-align: top; padding-left: 20px;">
+    <!-- <tr style="vertical-align: top; padding-left: 20px;">
     Welcome to my research repository! My work primarily focuses on <b>Speech Signal Processing</b>, <b>Acoustics</b>, and <b>Machine Learning</b>, with a specific emphasis on source-system characterization and zero-frequency filtering.
     <h2>🛠️ Research Pillars</h2>
     <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
     <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
     <li><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
     <li><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
-    </tr>
+    </tr> -->
 </table>
 </div>
 
