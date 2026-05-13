@@ -68,7 +68,7 @@
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+        <th style="text-align: center; padding-bottom: 20px;">
             <h1>Publications & Research</h1>
         </th>
     </tr>
