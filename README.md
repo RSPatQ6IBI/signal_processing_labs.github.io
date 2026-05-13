@@ -100,54 +100,32 @@
     </tr>
     <tr>
         <th colspan="2" style="text-align: center;">
-            <h3><b>🚀 2023</b></h3>
+            <h3><b>🚀 2020-onwards</b></h3>
         </th>
     </tr>
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
                 <li>🎤 <i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, </b>In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore</b><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th colspan="2" style="text-align: center;">
-            <h3><b>🚀 2022</b></h3>
-        </th>
-    </tr>
-    <tr>
-        <td style="vertical-align: left; padding-bottom: 20px;">
-            <p> 
                 <li>🎤 <i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b></i> <b>ICASSP-2022, IEEE, Singapore</b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th colspan="2" style="text-align: center;">
-            <h3><b>🔬 2021--2020</b></h3>
-        </th>
-    </tr>
-    <tr>
-        <td style="vertical-align: left; padding-bottom: 20px;">
-            <p> 
                 <li>🎤 <i><b>A study of vowel nasalization using instantaneous spectra</b></i>, <b>Computer Speech & Language</b><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Identification of F1 and F2 in speech using modified zero frequency filtering</b></i>, <b>Interspeech-2021, Brno, Czech Republic</b><a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
                 <li>🎤 <i><b>Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition</b></i> <b>MMAC-2021 (Multimodal Sentiment Analysis Challenge)</b><a href="https://dl.acm.org/doi/pdf/10.1145/3475957.3484448" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
                 <li>🎤 <i><b>Detection of glottal closure instant and glottal open region from speech signals using spectral flatness measure</b></i> <b>Speech Communication</b><a href="https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-                <li>🎤 <i><b>Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9053155" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-                <li>🎤 <i><b>Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9054682" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
             </p>
         </td>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center;">
-            <h3><b>📈 2013 - 2015</b></h3>
+            <h3><b>🔬 2013--2020</b></h3>
         </th>
     </tr>
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
+                <li>🎤 <i><b>Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9053155" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤 <i><b>Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing</b></i> <b>ICASSP-2020, IEEE, Barcelona, Spain</b><a href="https://ieeexplore.ieee.org/abstract/document/9054682" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Discriminating nasals and approximants in English language using zero time windowing</b></i>, <b>Interspeech-2018, Hyderabad, India</b><a href="https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Identification and classification of fricatives in speech using zero time windowing method</b></i>, <b>Interspeech-2018, Hyderabad, India</b><a href="https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Locating burst onsets using SFF envelope and phase information</b></i>, <b>Interspeech-2017, Stockholm, Sweden</b><a href="https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
@@ -159,10 +137,24 @@
 </table>
 </div>
 
-<!-- 📊 Connect with Me
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) --> --> -->
+<div style="display: flex; justify-content: center; width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <th colspan="2" style="text-align: center;">
+            <h1>📊 Connect with Me</h1>
+        </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: left; padding-bottom: 20px;">
+            <p>
+            <li>[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)</li>
+            <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)</li>
+            <li>[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK)</li>
+            </p>
+    </tr>
+</table>
+</div>
+
 
 
 
