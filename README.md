@@ -65,7 +65,41 @@
 </table>
 </div>
 
+
 # 📚 Publications & Research
+
+## 🛠️ Research Pillars
+
+| Category | Focus & Methodologies |
+| :--- | :--- |
+| **Signal Processing** | Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions |
+| **Speech Science** | Glottal Activity, Nasalization, Fricative Classification, Pitch Estimation |
+| **Bio-Signals** | Phonocardiogram (PCG) Analysis, COVID-19 Detection |
+| **Deep Learning** | Raw Waveform Embeddings, Emotion Recognition, Supervised Autoencoders |
+
+---
+
+## 📄 Peer-Reviewed Publications
+
+| Year | Type | Publication Title & Authors | Venue | Link |
+| :--- | :---: | :--- | :--- | :---: |
+| **2023** | 🎤 | **Automatic Speech Recognition for Odia Language** <br> *Mishra, N., Dash, S. R., Prasad, R., Parida, S.* | FICTA (Springer) | [🔗](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) |
+| **2022** | 🎤 | **Unsupervised VAD via Source/System Modeling** <br> *Sarkar, E., Prasad, R., Doss, M. M.* | Interspeech | [🔗](https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content) |
+| **2022** | 🎤 | **Neural Network Embeddings for COVID-19 Detection** <br> *Mostaani, Z., Prasad, R., Vlasenko, B., Doss, M. M.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1) |
+| **2021** | 📰 | **Vowel Nasalization using Instantaneous Spectra** <br> *Prasad, R., Yegnanarayana, B.* | Comp. Speech & Lang. | [🔗](https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract) |
+| **2021** | 🎤 | **Identification of F1/F2 using Modified ZFF** <br> *Prasad, R., Doss, M. M.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf) |
+| **2021** | 🎤 | **Fusion via Supervised Autoencoder for Emotion Recognition** <br> *Vlasenko, B., Prasad, R., Doss, M. M.* | MMAC | [🔗](https://dl.acm.org/doi/pdf/10.1145/3475957.3484448) |
+| **2020** | 📰 | **GCI & Glottal Open Region via Spectral Flatness** <br> *Kadiri, S. R., Prasad, R., Yegnanarayana, B.* | Speech Comm. | [🔗](https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004) |
+| **2020** | 🎤 | **S1/S2 locations in PCG signals using ZFF** <br> *Prasad, R., Yilmaz, G., Chetelat, O., Doss, M. M.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/abstract/document/9053155) |
+| **2020** | 🎤 | **Closed Phase Resonance Bandwidths via ZTW** <br> *Abbas, H. D., Prasad, R., Nellore, B. T., Gangashetty, S. V.* | ICASSP (IEEE) | [🔗](https://ieeexplore.ieee.org/abstract/document/9054682) |
+| **2018** | 🎤 | **Discriminating Nasals and Approximants via ZTW** <br> *Prasad, R., Kadiri, S. R., Gangashetty, S. V., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf) |
+| **2018** | 🎤 | **Classification of Fricatives using ZTW** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf) |
+| **2017** | 🎤 | **Locating Burst Onsets using SFF & Phase** <br> *Nellore, B. T., Prasad, R., Kadiri, S. R., Gangashetty, S. V., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf) |
+| **2016** | 📰 | **Glottal Open Regions via Vocal Tract Changes** <br> *Prasad, R., Yegnanarayana, B.* | JASA | [🔗](https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext) |
+| **2015** | 🎤 | **Robust Pitch Estimation via ZTW & Group Delay** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2015/prasad15b_interspeech.pdf) |
+| **2013** | 🎤 | **Acoustic Segmentation using Zero Time Liftering** <br> *Prasad, R., Yegnanarayana, B.* | Interspeech | [🔗](https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf) |
+
+<!-- # 📚 Publications & Research
 
 Welcome to my research repository! My work primarily focuses on **Speech Signal Processing**, **Acoustics**, and **Machine Learning**, with a specific emphasis on source-system characterization and zero-frequency filtering.
 
@@ -135,10 +169,10 @@ Welcome to my research repository! My work primarily focuses on **Speech Signal 
 ## 📊 Connect with Me
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) -->
 
 ---
-*Generated with ❤️ for researchers on GitHub.*
+<!-- *Generated with ❤️ for researchers on GitHub.* -->
 
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%;" border="1"  bgcolor="#D6EEEE">
