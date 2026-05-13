@@ -68,22 +68,22 @@
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+        <th colspan="3" style="text-align: center; padding-bottom: 20px;">
             <h1>📚 Publications & Research</h1>
         </th>
     </tr>
     <tr>
-    Welcome to my research repository! My work primarily focuses on **Speech Signal Processing**, **Acoustics**, and **Machine Learning**, with a specific emphasis on source-system characterization and zero-frequency filtering.
+    Welcome to my research repository! My work primarily focuses on <b>Speech Signal Processing</b>, <b>Acoustics</b>, and <b>Machine Learning</b>, with a specific emphasis on source-system characterization and zero-frequency filtering.
     <h2>🛠️ Research Pillars</h2>
-    <li>**Signal Processing:** Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
-    <li>**Speech Science:** Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
-    <li>**Bio-Signals:** Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
-    <li>**Deep Learning:** Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
+    <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
+    <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
+    <li><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
+    <li><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
     </tr>
 </table>
 </div>
 
-## 📄 Peer-Reviewed Publications
+<!-- ## 📄 Peer-Reviewed Publications
 
 ### 🚀 2023
 - 🎤 **A Systematic Review on Automatic Speech Recognition for Odia Language.** *Mishra, N., Dash, S. R., **RaviShankar Prasad**,Parida, S.* (2023, April). In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore.
@@ -139,7 +139,7 @@
 ## 📊 Connect with Me
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) -->
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK) --> -->
 
 ---
 <!-- *Generated with ❤️ for researchers on GitHub.* -->
