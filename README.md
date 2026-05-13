@@ -84,7 +84,7 @@
         </th>
     </tr>
     <tr>
-        <td style="vertical-align: top; padding-bottom: 20px;">
+        <td style="vertical-align: left; padding-bottom: 20px;">
             <p>
                 <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
                 <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
