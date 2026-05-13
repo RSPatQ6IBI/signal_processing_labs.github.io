@@ -137,25 +137,6 @@
 </table>
 </div>
 
-<div style="display: flex; justify-content: center; width: 100%;">
-<table style="width: 100%; border-collapse: collapse;">
-    <tr>
-        <th colspan="2" style="text-align: center;">
-            <h1>📊 Connect with Me</h1>
-        </th>
-    </tr>
-    <tr>
-        <td style="vertical-align: left; padding-bottom: 20px;">
-            <p>
-            <li>[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ&view_op=list_works&sortby=pubdate)</li>
-            <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-prasad-b9907924/)</li>
-            <li>[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_LINK)</li>
-            </p>
-    </tr>
-</table>
-</div>
-
-
 
 
 <div style="display: flex; justify-content: center; width: 100%;">
