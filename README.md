@@ -214,4 +214,16 @@
             <li> Explains generation of embeddings and methods to index those </li>
         </ul></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/RSPatQ6IBI/signal_processing_labs.github.io/blob/main/tutorials_/removing_tones_notch_dfn_.ipynb" target="_blank">Removing tones as noise in infant cry</a> 
+        </td>
+        <td><ul>
+            <li> Infant cry signal has significant energy in high frequency range</li>
+            <li> The presence of constant tones as noise is removed using two methods</li>
+            <li> A notch filter with effective response as a cascade of 3 notch filters centered at tonal frequency</li>
+            <li> Deep network based denoising using <i><b>DeepFilterNet</i></b> </li>
+        </ul></td>
+    </tr>
 </table>
+
+
