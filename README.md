@@ -102,7 +102,7 @@ Welcome to my research repository! My work primarily focuses on **Speech Signal 
         <th>Description </th>
     </tr>
     <tr>
-        <td><a href="https://github.com/RSPatQ6IBI/text_processing_exercises_/blob/main/emotion_classification_DIstilBert_Finetuning_.ipynb" target="_blank"> Emotion Classification using Distilbert Model </a> 
+        <td><a href="https://github.com/RSPatQ6IBI/emotion_classification_distilbert_.git" target="_blank"> Emotion Classification using Distilbert Model </a> 
         </td>
         <td><ul>
             <li> 
