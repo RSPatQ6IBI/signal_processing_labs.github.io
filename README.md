@@ -69,7 +69,7 @@
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+        <th colspan="2" style="text-align: center;">
             <h1>📚 Publications & Research</h1>
         </th>
     </tr>
@@ -79,7 +79,7 @@
         </th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+        <th colspan="2" style="text-align: center;">
             <h2>🛠️ Research Pillars</h2>
         </th>
     </tr>
