@@ -72,16 +72,18 @@
         <th colspan="2" style="text-align: center; padding-bottom: 20px;">
             <h2>📚 Publications & Research</h2>
         </th>
+        <th colspan="2" style="text-align: center; padding-bottom: 20px;">
+            Welcome to my research repository! My work primarily focuses on <b>Speech Signal Processing</b>, <b>Acoustics</b>, and <b>Machine Learning</b>, with a specific emphasis on source-system characterization and zero-frequency filtering.
+        </th>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center; padding-bottom: 20px;">
-        Welcome to my research repository! My work primarily focuses on <b>Speech Signal Processing</b>, <b>Acoustics</b>, and <b>Machine Learning</b>, with a specific emphasis on source-system characterization and zero-frequency filtering.
+            <h2>🛠️ Research Pillars</h2>
         </th>
-        <h2>🛠️ Research Pillars</h2>
-        <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
-        <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
-        <li><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
-        <li><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
+        <tr><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</tr>
+        <tr><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</tr>
+        <tr><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</tr>
+        <tr><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</tr>
     </tr>
 </table>
 </div>
