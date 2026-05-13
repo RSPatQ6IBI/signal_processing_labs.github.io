@@ -86,44 +86,49 @@ Welcome to my research repository! My work primarily focuses on **Speech Signal 
 [Abstract/Link](https://scholar.google.ch/citations?view_op=view_citation&hl=en&user=53AIuygAAAAJ&sortby=pubdate&citation_for_view=53AIuygAAAAJ:DJbcl8HfkQkC) 🔗
 ### 🚀 2022
 - 🎤 **Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering** *Eklavya Sarkar, **RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2022**, Incheon, South Korea.  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content) 🔗
 
 - 🎤 **Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection** *Zohreh Mostaani, **RaviShankar Prasad**, Bogdan Vlasenko, Mathew Magimai Doss* **ICASSP-2022**, IEEE, Singapore.  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1) 🔗
 
 ### 🌟 2021
 - 📰 **A study of vowel nasalization using instantaneous spectra** ***RaviShankar Prasad**, B. Yegnanarayana* **Computer Speech & Language** (Vol 69).  
-  [Journal Link] 🔗
+  [Journal Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract) 🔗
 
 - 🎤 **Identification of F1 and F2 in speech using modified zero frequency filtering** ***RaviShankar Prasad**, Mathew Magimai Doss* **Interspeech-2021**, Brno, Czech Republic.  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf) 🔗
 
 - 🎤 **Fusion of Acoustic and Linguistic Information using Supervised Autoencoder for Improved Emotion Recognition** *Bogdan Vlasenko, **RaviShankar Prasad**, Mathew Magimai Doss* **MMAC-2021** (Multimodal Sentiment Analysis Challenge).  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://dl.acm.org/doi/pdf/10.1145/3475957.3484448) 🔗
 
 ### 🔬 2020
 - 📰 **Detection of glottal closure instant and glottal open region from speech signals using spectral flatness measure** *Kadiri, S. R., **RaviShankar Prasad**, B. Yegnanarayana* **Speech Communication** (Vol 116).  
-  [Journal Link] 🔗
+  [Journal Link](https://dl.acm.org/doi/abs/10.1016/j.specom.2019.11.004) 🔗
 
 - 🎤 **Detection of S1 And S2 locations in phonocardiogram signals using Zero Frequency Filter** ***RaviShankar Prasad**, Gurkan Yilmaz, Olivier Chetelat, Mathew Magimai Doss* **ICASSP-2020**, IEEE, Barcelona, Spain.  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://ieeexplore.ieee.org/abstract/document/9053155) 🔗
 
 - 🎤 **Study of closed phase resonance bandwidths for oral and nasal tracts using Zero Time Windowing** *Abbas, H. D., **RaviShankar Prasad**, Bhanu Teja Nellore, Suryakanth V. Gangashetty* **ICASSP-2020**, IEEE, Barcelona, Spain.  
-  [Abstract/Link] 🔗
+  [Abstract/Link](https://ieeexplore.ieee.org/abstract/document/9054682) 🔗
 
 ### 📈 2018 - 2015
 - 🎤 **Discriminating nasals and approximants in English language using zero time windowing** ***RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
-
+[Abstract/Link](https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf)🔗
 - 🎤 **Identification and classification of fricatives in speech using zero time windowing method** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2018**, Hyderabad, India.
+[Abstract/Link](https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf)🔗
 
 - 🎤 **Locating burst onsets using SFF envelope and phase information** *Bhanu Teja Nellore, **RaviShankar Prasad**, S. R. Kadiri, S. V. Gangashetty, B. Yegnanarayana* **Interspeech-2017**, Stockholm, Sweden.
+[Abstract/Link](https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf)🔗
 
 - 📰 **Determination of glottal open regions by exploiting changes in the vocal tract system characteristics** ***RaviShankar Prasad**, B. Yegnanarayana* **The Journal of Acoustical Society of America** (Vol 140).
+[Abstract/Link](https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext)🔗
 
 - 🎤 **Robust pitch estimation in noisy speech using ZTW and group delay function** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2015**, Dresden, Germany.
+[Abstract/Link](https://www.isca-archive.org/interspeech_2015/prasad15b_interspeech.pdf)🔗
 
 ### 🌱 2013
 - 🎤 **Acoustic segmentation of speech using zero time liftering** ***RaviShankar Prasad**, B. Yegnanarayana* **Interspeech-2013**, Lyon, France.
+[Abstract/Link](https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf)🔗
 
 ---
 
