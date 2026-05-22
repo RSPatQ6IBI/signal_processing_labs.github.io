@@ -107,8 +107,9 @@
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
-                <li>🎤 <i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, </b>In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore</b><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
-                <li>🎤 <i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <l1>[![PDF Icon](https://flaticon.com) Download PDF](your-file.pdf)</li>
+                <li>🎤<i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, <b>In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore</b><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li>🎤<i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b></i> <b>ICASSP-2022, IEEE, Singapore</b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
                 <li>🎤 <i><b>A study of vowel nasalization using instantaneous spectra</b></i>, <b>Computer Speech & Language</b><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Identification of F1 and F2 in speech using modified zero frequency filtering</b></i>, <b>Interspeech-2021, Brno, Czech Republic</b><a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
@@ -143,7 +144,7 @@
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%;" border="1"  bgcolor="#D6EEEE">
     <tr>
-        <th>Recent Projects</th>
+        <th>Notable Projects</th>
         <th>Description </th>
     </tr>
     <tr>
