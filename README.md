@@ -1,31 +1,4 @@
-<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/git.svg)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/rsp_photo_mono.jpg) -->
-
 <div style="background-image: url('images/GrandChavalard_SNOW.svg'); background-size: cover; padding: 20px;">
-
-<!-- <div style="display: flex; justify-content: center; width: 100%;">
-<table style="width: 100%;">
-    <tr>
-        <th> </th>
-        <th>RaviShankar Prasad</th>
-    </tr>
-    <tr>
-        <td><img style='border:2px solid #73bdeb' align="left" width="180" height="300" src="images/mugshot_.svg"/></td>
-        <td><ul>
-            <li> A <a href="https://scholar.google.ch/citations?hl=en&user=53AIuygAAAAJ" target="_blank"><strong>scientist</strong></a>  in speech, biomedical, and text processing domains</li>
-            <li> Built solutions for speech- and text-based analytics, development of conversational AI systems, AI based analytics engines, agentic systems, speech processing, biomedical signal processing </li>
-            <li><a href="https://library.iiit.ac.in/Ph.D_ECE_Thesis.html" target="_blank"><strong>PhD in Speech Signal Processing</strong></a> with <a href="https://en.wikipedia.org/wiki/Bayya_Yegnanarayana" target="_blank"><strong>Prof. B. Yegnanarayana</strong></a> </li> from <a href="https://www.iiit.ac.in/" target="_blank"> <strong>IIIT Hyderabad</strong></a>
-            <li> Postdoctoral Researcher <a href="https://www.idiap.ch/en/" target="_blank"><strong>Idiap Research Institute</strong></a> (2018-2022)</li>
-            <li>Scientist at <a href="https://whispp.com/" target="_blank"><strong>Whispp Inc.</strong></a> (2022-2023)</li>
-            <li>Chief Operation Officer at <a href="https://vocab-ai.com/" target="_blank"><strong>Vocab.AI</strong></a> (2023-2026)</li>
-            <li>Skills : Machine learning, Deep Learning, Neural Netowrks, Text Processing, Audio Processing, LLMs</li>
-            <li>Hobbies : Photography, Fiction, Blues music</li>
-        </ul></td>
-    </tr>
-</table>
-
-</div> -->
 
 <div style="display: flex; justify-content: center; width: 100%;">
 <table style="width: 100%; border-collapse: collapse;">
@@ -87,10 +60,12 @@
     <tr>
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p>
+                <ul style="list-style-type: square; list-style-position: inside;">
                 <li><b>Signal Processing:</b> Zero Frequency Filtering (ZFF), Zero Time Windowing (ZTW), Group Delay Functions.</li>
                 <li><b>Speech Science:</b> Glottal activity, Nasalization, Fricative classification, Pitch estimation.</li>
                 <li><b>Bio-Signals:</b> Phonocardiogram (PCG) analysis, COVID-19 detection.</li>
                 <li><b>Deep Learning:</b> Raw waveform embeddings, Emotion recognition, Supervised Autoencoders.</li>
+                </ul>
             </p>
         </td>
     </tr>
@@ -108,8 +83,8 @@
         <td style="vertical-align: left; padding-bottom: 20px;">
             <p> 
                 <ul style="list-style-type: square; list-style-position: inside;">
-                <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, <b>In International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore</b></li>
-                <li>🎤<i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
+                <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-6706-3_9" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i><b>A Systematic Review on Automatic Speech Recognition for Odia Language.</b></i>, <b>Springer Nature, Singapore</b></li>
+                <li><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/3e1380e2-03aa-4836-aae0-24a5fdc36bde/content" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i><b>Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering</b></i> <b>Interspeech-2022, Incheon, South Korea</b></li>
                 <li>🎤 <i><b>Modeling of pre–trained neural network embeddings learned from raw waveform for covid–19 infection detection</b></i> <b>ICASSP-2022, IEEE, Singapore</b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746271&casa_token=db6GRo6kaNEAAAAA:OjNT0OAqF1KZO-56tfaCr-VdNarZbMWkQEkA4aFnWW32hNf1utqpHsDjzJbwWjBq0Gy1nxXkELcp&tag=1" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li> 
                 <li>🎤 <i><b>A study of vowel nasalization using instantaneous spectra</b></i>, <b>Computer Speech & Language</b><a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906416P/abstract" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>
                 <li>🎤 <i><b>Identification of F1 and F2 in speech using modified zero frequency filtering</b></i>, <b>Interspeech-2021, Brno, Czech Republic</b><a href="https://www.isca-archive.org/interspeech_2021/prasad21_interspeech.pdf" target="_blank" class="link-icon">[Abstract 🔗 Link]</a></li>  
