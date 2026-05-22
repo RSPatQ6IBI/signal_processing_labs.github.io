@@ -108,7 +108,7 @@
                 <li><a href="https://www.isca-archive.org/interspeech_2018/prasad18_interspeech.pdf" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Discriminating nasals and approximants in English language using zero time windowing,</i>, <b>Interspeech-2018, Hyderabad, India</b></li>
                 <li><a href="https://www.isca-archive.org/interspeech_2018/prasad18b_interspeech.pdf" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Identification and classification of fricatives in speech using zero time windowing method,</i>, <b>Springer Nature, Singapore</b></li>
                 <li><a href="https://www.isca-archive.org/interspeech_2017/nellore17_interspeech.pdf" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Locating burst onsets using SFF envelope and phase information,</i>, <b>Interspeech-2017, Stockholm, Sweden</b></li>
-                <li><a href="https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Determination of glottal open regions by exploiting changes in the vocal tract system characteristics,</i>, <b>JASA, 2015</b></li>
+                <li><a href="https://pubs.aip.org/asa/jasa/article-abstract/140/1/666/604252/Determination-of-glottal-open-regions-by?redirectedFrom=fulltext" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Determination of glottal open regions by exploiting changes in the vocal tract system characteristics,</i>, <b>JASA, 2016</b></li>
                 <li><a href="https://www.isca-archive.org/interspeech_2015/prasad15b_interspeech.pdf" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Robust Pitch Estimation in Noisy Speech Using ZTW and Group Delay Function,</i>, <b>Interspeech-2015, Dresden, Germany</b></li>
                 <li><a href="https://www.isca-archive.org/interspeech_2013/prasad13_interspeech.pdf" target="_blank" class="link-icon"><img src="images/pdf-file-format.png" width="25" height="30"></a><i>  Acoustic segmentation of speech using zero time liftering,</i>, <b>Interspeech-2013, Lyon, France</b></li>
             </ul>
@@ -207,4 +207,36 @@
     </tr>
 </table>
 
-
+<script type="text/javascript">
+window.onload = function () {
+	var chart = new CanvasJS.Chart("chartContainer",
+	{
+		theme: "light2",
+		title:{
+			text: "Gaming Consoles Sold in 2012"
+		},		
+		data: [
+		{       
+			type: "pie",
+			showInLegend: true,
+			toolTipContent: "{y} - #percent %",
+			yValueFormatString: "#,##0,,.## Million",
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{  y: 4181563, indexLabel: "PlayStation 3" },
+				{  y: 2175498, indexLabel: "Wii" },
+				{  y: 3125844, indexLabel: "Xbox 360" },
+				{  y: 1176121, indexLabel: "Nintendo DS"},
+				{  y: 1727161, indexLabel: "PSP" },
+				{  y: 4303364, indexLabel: "Nintendo 3DS"},
+				{  y: 1717786, indexLabel: "PS Vita"}
+			]
+		}
+		]
+	});
+	chart.render();
+}
+</script>
+<script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script></head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
