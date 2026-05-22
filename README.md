@@ -58,7 +58,7 @@
         </th>
     </tr>
     <tr><head>
-<script type="text/javascript">
+<script type="text/javascript">{newline}
 window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer",
 	{
