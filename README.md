@@ -222,7 +222,7 @@
             <li> Infant cry signal has significant energy in high frequency range</li>
             <li> The presence of constant tones as noise is removed using two methods</li>
             <li> A notch filter with effective response as a cascade of 3 notch filters centered at tonal frequency</li>
-            <li> Deep network based denoising using <i><b>DeepFilterNet</i></b> </li>
+            <li> Deep network based denoising using <i><b>DeepFilterNet</b></i></li>
         </ul></td>
     </tr>
 </table>
